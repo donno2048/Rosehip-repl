@@ -1,0 +1,7 @@
+pygame
+pygame-gui
+html2text
+Js2Py
+opencv-python
+numpy
+pyttsx3
