@@ -1,18 +1,12 @@
 [tool.poetry]
-name = "repl_pygame_FragrantIllfatedCallbacks"
+name = "rosehip-demo"
 version = "0.1.0"
 description = ""
 authors = ["Your Name <you@example.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.7"
-pygame = "^2.0.0"
-pygame-gui = "^0.5.7"
-html2text = "^2020.1.16"
-Js2Py = "^0.70"
-opencv-python = "^4.4.0.46"
-numpy = "^1.19.4"
-pyttsx3 = "^2.90"
+python = "^3.8"
+markdown2 = "^2.4.0"
 
 [tool.poetry.dev-dependencies]
 
