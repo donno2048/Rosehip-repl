@@ -1,7 +1,7 @@
-pygame
-pygame-gui
-html2text
-Js2Py
-opencv-python
-numpy
-pyttsx3
+pygame==1.9.6
+pygame-gui==0.5.7
+html2text==2020.1.16
+Js2Py==0.70
+opencv-python==4.5.2.52
+numpy==1.19.5
+pyttsx3==2.90
